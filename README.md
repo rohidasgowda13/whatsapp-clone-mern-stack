@@ -1,4 +1,8 @@
+Front End Screen Shot!
 ![Screenshot](whatsapp-clone-mern.png)
+
+Working Whatsapp Clone!
+
 ![Screenshot](whatsapp-clone-mern.gif)
 
 # Getting Started with Create React App
